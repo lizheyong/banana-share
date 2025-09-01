@@ -8,6 +8,11 @@
 
 > 用户名: 天
 
+## 输入图片
+
+![](./inputs/scene.png)
+![](./inputs/character_0.png)
+
 ## 结果文本
 
 ### Part 1
