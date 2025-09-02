@@ -14,3 +14,11 @@ One of them is represented as a cosplayer version of the uploaded character:
 ```
 
 > 用户名: banana
+
+## 输入图片
+
+![](./inputs/scene.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
