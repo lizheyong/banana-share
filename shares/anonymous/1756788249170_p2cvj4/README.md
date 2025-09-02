@@ -8,6 +8,19 @@
 
 > 用户名: 饮水机管理员
 
+## 输入图片
+
+![](./inputs/scene.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
+![](./outputs/result_part_2.png)
+![](./outputs/result_part_3.png)
+![](./outputs/result_part_4.png)
+![](./outputs/result_part_5.png)
+![](./outputs/result_part_6.png)
+
 ## 结果文本
 
 ### Part 1
