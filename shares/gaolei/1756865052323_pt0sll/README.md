@@ -7,3 +7,11 @@
 ```
 
 > 用户名: gaolei
+
+## 输入图片
+
+![](./inputs/character_0.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
