@@ -8,6 +8,16 @@
 
 > 用户名: 红番茄
 
+## 输入图片
+
+![](./inputs/scene.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
+![](./outputs/result_part_2.png)
+![](./outputs/result_part_3.png)
+
 ## 结果文本
 
 ### Part 1
