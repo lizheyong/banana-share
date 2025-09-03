@@ -8,6 +8,14 @@
 
 > 用户名: 深呼吸，头晕是正常的
 
+## 输入图片
+
+![](./inputs/scene.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
+
 ## 结果文本
 
 ### Part 1
