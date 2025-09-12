@@ -8,3 +8,14 @@ without any text.On the computer screen, display the ZBrush modeling process of 
 ```
 
 > 用户名: zheyong
+
+## 输入图片
+
+![](./inputs/scene.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
+![](./outputs/result_part_2.png)
+![](./outputs/result_part_3.png)
+![](./outputs/result_part_4.png)
