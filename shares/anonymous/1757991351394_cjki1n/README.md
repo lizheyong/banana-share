@@ -7,3 +7,12 @@
 ```
 
 > 用户名: 深呼吸头晕是正常的
+
+## 输入图片
+
+![](./inputs/scene.png)
+![](./inputs/character_0.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
