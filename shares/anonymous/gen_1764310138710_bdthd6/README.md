@@ -7,3 +7,13 @@
 ```
 
 > 用户名: 杭城城
+
+## 输入图片
+
+![](./inputs/scene.png)
+![](./inputs/character_0.png)
+![](./inputs/character_1.png)
+
+## 生成结果
+
+![](./outputs/result_part_1.png)
